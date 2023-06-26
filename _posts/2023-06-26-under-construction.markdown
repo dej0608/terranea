@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Under Construction!"
 date:   2023-06-26 09:00:00 -0500
 categories: construction
