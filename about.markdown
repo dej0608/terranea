@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+You've likely found this pace by accident! This site is to be a wiki for a D&D campaign set in the world of Terranea. This space will eventually hold player handbook information, general information about the world and its people, along with a journal of our party's adventures once the game begins.
 
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
