@@ -1,12 +1,38 @@
 # main links
 main:
-  # - title: "Quick-Start Guide"
-  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+    - title: World Guide
+      url: /world-main/
+    - title: Campaign Resources
+      url: /campaign-resources/
+
+world-nav:
+    - title: Terranea World Guide
+      children:
+        - title: History
+          url: /history/
+        - title: Species
+          url: /species/
+        - title: Church of Caius
+          url: /caius/church/
+        - title: Deities
+          url: /deities/
+        - title: Government
+          url: /government/
+        - title: The Planestorm
+          url: /planestorm/
+        - title: Xenos
+          url: /xenos/
+          
+campaign-resources:
+    - title: Lies of Caius
+      children:
+        - title: Player Characters
+          url: /loc/pcs/
+        - title: Notable NPCs
+          url: /loc/npcs-main/
+        - title: Homebrew Rules
+          url: /loc/homebrew/
+        - title: Downtime Activities
+          url: /loc/downtime-activities/
+        - title: Journal
+          url: /loc/journal/
