@@ -10,18 +10,16 @@ world-nav:
       children:
         - title: History
           url: /history/
-        - title: Species
-          url: /species/
-        - title: Church of Caius
-          url: /caius/church/
+        - title: Races
+          url: /races/
+        - title: Organizations
+          url: /organizations/
         - title: Deities
           url: /deities/
-        - title: Government
-          url: /government/
         - title: The Planestorm
           url: /planestorm/
-        - title: Xenos
-          url: /xenos/
+        - title: Titans
+          url: /titans/
           
 campaign-resources:
     - title: Lies of Caius

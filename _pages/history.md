@@ -31,7 +31,7 @@ The elves' longevity gave them ample experience in understanding the other races
 
 The gods, enraged by the loss of their children, bequeathed the secret to the celestials power to the mortal world, allowing a select few to develop technology once reserved only for the divine. With this knowledge came a new era of Artificing and Alchemy that placed magical weapons once only heard of in legends into the hands of soldiers. They built ships that sailed through the skies, carrying men into battle unimpeded by the land's harsh terrain. And with the blessing of the gods, they created a new people - the Warforged - replacing the celestials that were lost on the battlefield. With these new weapons in hand the invaders and their sympathizers were routed, and those denizens of the world who remained were left with the consequences of their betrayal.
 
-As a final act of spite, the Planewalkers pulled the gods' floating throne into the Material Plane and summoned a storm that surrounded it and the lands below, sealing both the gods and the people off from the rest of the world. The Planestorm, as it became known, left the world forever changed.
+As a final act of spite, the Planewalkers pulled the gods' floating throne - the Chalice - into the Material Plane and summoned a storm that surrounded it and the lands below, sealing both the gods and the people off from the rest of the world. The Planestorm, as it became known, left the world forever changed.
 
 ### Founding of the Holy Republic of Caius
 
@@ -47,18 +47,18 @@ As the Holy Republic of Caius rose from the ashes of war, the gods became more d
 
 But, not all the people of Aeros were given the favor of the gods. Those people that proved unfaithful during the invasion were punished in accordance with their crimes. The people of the Underdark were banished to the depths of the earth from which they came, cursed to burn in the sun should they ever emerge. The beastkin, in their indifference, were forbidden the use of magical technology gifted by the gods. The elves - the betrayers - were cursed to a shorened lifespan, so that they may never again believe themselves wise enough in their years to know better than the gods. And the dragons, the beings that slew the most of the gods beloved children, were destroyed, leaving only their bones to serve as sentries to guard the throne of the gods for eternity.
 
-### Appearance of the Xenos
+### Appearance of the Titans
 
 Three years following the appearance of the Planestorm, the true danger of the storm was discovered. Arcanists of Caius speculated that the storm itself is a physical manifestation of planes of existence at an intersection, where no one plane is domninant, but all still exist at once. They hypothesized that in the correct conditions, one plane could become dominant over the others and open a rift to a single external plane of existence. The wizards, unable to determine the conditions necessary to predict the location the rift would appear, recruited groups of explorers that were distributed to towns and cities across the Republic. These explorers were given magical artifacts in order to research opportunities to circumvent the storm, and make contact from the other side. A rift indeed began to open in the town of Redburn as the wizards hypothesized, but before the explorers could step in, something else stepped out.
 
-A colossal monster emerged from the rift, and wrought unmitigated destruction to the town. Of the nearly 8000 residents of Redburn, less than 200 survived. This disaster would mark the first appearance of a Xenos in Caius, and it would come to be known by the name Gigas.
+A colossal monster emerged from the rift, and wrought unmitigated destruction to the town. Of the nearly 8000 residents of Redburn, less than 200 survived. This disaster would mark the first appearance of a Titan in Caius, and it would come to be known by the name Gigas.
 
-Over seven millenia, five different Xenos have appeared in Caius, each leaving a unique footprint of destruction in their wake. None were as large as Gigas, but all were capable of the same level of destruction, or more. Unopposed, entire cities were wiped from the map. They appear at irregular intervals, with records indicating an appearance every 3 to 15 years. No correlation between when a Xenos appears and which Xenos appears has been found to date.
+Over seven millenia, five different Titans have appeared in Caius, each leaving a unique footprint of destruction in their wake. None were as large as Gigas, but all were capable of the same level of destruction, or more. Unopposed, entire cities were wiped from the map. They appear at irregular intervals, with records indicating an appearance every 3 to 15 years. No correlation between when a Titan appears and which Titan appears has been found to date.
 
-Following the second appearance of a Xenos, the Church of Caius recruited the greatest warriors in the land to join the Protectorate, a special force whose goal was to mitigate the destruction caused by the Xenos.
+Following the second appearance of a Titan, the Church of Caius recruited the greatest warriors in the land to join the Protectorate, a special force whose goal was to mitigate the destruction caused by the Titans.
 
 ### Dawnbringer
 
-In SY 7642, the Protectorate moved to intercept Gigas, in the town of Oldcrest. It was there that Protectorate Commander Cedric Grayvale and his team slew the first Xenos. The death of Gigas was celebrated as a new dawn for the people of Caius, and as such Grayvale was awarded the unique title of "Dawnbringer" by the church.
+In SY 7642, the Protectorate moved to intercept Gigas, in the town of Oldcrest. It was there that Protectorate Commander Cedric Grayvale and his team slew the first Titan. The death of Gigas was celebrated as a new dawn for the people of Caius, and as such Grayvale was awarded the unique title of "Dawnbringer" by the church.
 
 *[SY]: Storm Year
