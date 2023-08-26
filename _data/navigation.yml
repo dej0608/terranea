@@ -7,6 +7,7 @@ main:
 
 world-nav:
     - title: Terranea World Guide
+      url: /world-main/
       children:
         - title: History
           url: /history/
@@ -23,13 +24,14 @@ world-nav:
           
 campaign-resources:
     - title: Lies of Caius
+      url: /campaign-resources/
       children:
         - title: Player Characters
           url: /loc/pcs/
         - title: Notable NPCs
           url: /loc/npcs-main/
-        - title: Homebrew Rules
-          url: /loc/homebrew/
+        - title: Campaign Rules
+          url: /loc/rules/
         - title: Downtime Activities
           url: /loc/downtime-activities/
         - title: Journal
