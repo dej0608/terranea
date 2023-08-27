@@ -17,6 +17,6 @@ This is a list of notable NPCs the party has met during their adventure. They ar
 	<font size="2.5"><em>Pronouns: she/her</em></font><br>
 	<font size="2.5"><em>Status: alive</em></font>
 </p>
-Hilda is a sailor from a shiping company who has long dreamed of buying her own ship and setting out on her own. She can be a bit bullheaded, but has an overall cheerful disposition that made her a fast friend. She is an avid collector of old artifacts, and loves showing off whatever new trinket she stumbles across. In her travels she has met and gotten to know each of the PCs and developed a friendship with each of them. 
+Hilda is a sailor from a shiping company who has long dreamed of buying her own ship and setting out on her own. She can be a bit bullheaded, but has an overall cheerful disposition that made her a fast friend. She is an avid collector of old artifacts, and loves showing off whatever new trinket she stumbles across. In her travels she has met each of the PCs and developed a friendship with each of them. 
 
 Recently, she sent a letter to each of them containing an airship ticket to Ashborne asking them to meet her in the nearby village of Jorren's Rest. She finally found her ship, and now needed a crew...
