@@ -13,6 +13,8 @@ world-nav:
           url: /history/
         - title: Races
           url: /races/
+        - title: Locations
+          url: /locations/
         - title: Organizations
           url: /organizations/
         - title: Deities
