@@ -1,6 +1,6 @@
 ---
 layout: home
-permalink: /loc/journal
+permalink: /loc/journal/
 sidebar:
   nav: campaign-resources
 ---
