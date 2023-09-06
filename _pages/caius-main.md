@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Terranea
+title: Terranea World Guide
 permalink: /world-main/
 sidebar:
   nav: world-nav
@@ -13,6 +13,9 @@ History of the world and the Holy Republic of Caius.
 
 [<font size="5">Races</font>](/loc/pcs)<br>
 List of races that exist on Terranea and information that is unique to them in this world.
+
+[<font size="5">Locations</font>](/loc/pcs)<br>
+Maps and lists of notable locations that have been discovered or visited.
 
 [<font size="5">Organizations</font>](/loc/pcs)<br>
 Government and other independent organizations of the world.
