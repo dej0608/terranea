@@ -13,16 +13,16 @@ The list of PCs current and former.
 
 *[PCs]: Player Characters
 
-[<font size="5">Notable NPCs</font>](/loc/pcs)<br>
+[<font size="5">Notable NPCs</font>](/loc/npcs-main)<br>
 List of important NPCs the players have met.
 
 *[NPCs]: Non-Player Characters
 
-[<font size="5">Campaign Rules</font>](/loc/pcs)<br>
+[<font size="5">Campaign Rules</font>](/loc/rules)<br>
 Guidance for characer creation and homebrew rules for the campaign.
 
-[<font size="5">Downtime Activities</font>](/loc/pcs)<br>
+[<font size="5">Downtime Activities</font>](/loc/downtime-activities)<br>
 Downtime activity options and rules.
 
-[<font size="5">Journal</font>](/loc/pcs)<br>
+[<font size="5">Journal</font>](/loc/journal)<br>
 Journal entries for all of the adventures in our story so far.
