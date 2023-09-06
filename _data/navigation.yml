@@ -37,4 +37,4 @@ campaign-resources:
         - title: Downtime Activities
           url: /loc/downtime-activities/
         - title: Journal
-          url: /loc/journal/
+          url: /loc/journal
