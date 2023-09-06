@@ -53,6 +53,7 @@ Candidate rules:
  * Impose disadvatage on the target
  * Give advantage on the next attack against the target
 - Flanking provides advantage
-- New Condition: **Dazed** A dazed creature can only do one of the following things on their turn: move, use an action, or use a bonus action. If a creature becomes dazed during their turn, their turn ends. The cure ailment power, lesser restoration spell, and greater restoration spell remove the dazed condition. At the GM’s discretion, other powers, spells, or effects might alsoremove the dazed condition. When a dazed creature is affected by a spell or effect that gives them an extra action on their turn (like the haste spell or the fighter’s Action Surge feature), they can still take this extra action, in addition to the movement, action, or bonus action allowed by the dazed condition.
+- New Condition: **Dazed**[^1] A dazed creature can only do one of the following things on their turn: move, use an action, or use a bonus action. If a creature becomes dazed during their turn, their turn ends. The *cure ailment* power, *lesser restoration* spell, and *greater restoration* spell remove the dazed condition. At the GM’s discretion, other powers, spells, or effects might also remove the dazed condition. When a dazed creature is affected by a spell or effect that gives them an extra action on their turn (like the haste spell or the fighter’s Action Surge feature), they can still take this extra action, in addition to the movement, action, or bonus action allowed by the dazed condition.
 
 *[RAW]: rules as written
+[^1]: "Flee Mortals! The MCDM Monster Book" [Link](https://shop.mcdmproductions.com/collections/flee-mortals-the-mcdm-monster-book)
