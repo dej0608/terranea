@@ -4,20 +4,23 @@ title: Campaign Rules
 permalink: /loc/rules/
 sidebar:
   nav: campaign-resources
+toc: true
+toc_label: "Contents"
+toc_icon: "book"
 ---
 
 This page lists everything you need to know to start playing in Terranea. This includes the special rules for character creation, house rules, and homebrew. These are subject to change going forward depending on player and DM sentiment, but will be agreed upon as a group.
 
 ### Getting Started
 
-This site is meant to as a reference for you to help keep track of names and setting details. To play in this world I recommend going in the following order:
+This site is meant to act as a reference for you to help keep track of names and setting details. To create a character and familiarize yourself with the lore of Terranea, I recommend going in the following order:
 
-1. It is recommended you start here on this page to get a feel for the [character creation](#charactercreation) guidelines and the miscellaneous [house](#houserules)/[homebrew](#homebrew) rules we will be using.
+1. It is recommended you start here on this page to get a feel for the [character creation](#character-creation) guidelines and the miscellaneous [house](#house-rules)/[homebrew](#homebrew) rules we will be using.
 2. I recommend reading through the [History](/history/) to provide some context for the rest of the information provided. 
 3. Read through the [Race](/species/) information for the character you want to play to learn a little background about what the world might have been like for your character prior to the start of the adventure.
-4. (Optional) I also recommend familiarizing yourself with the deities of the [Circle](/caius-deities/#thecircle) as they are the most prevalent and will likely be regularly referenced by NPCs.
+4. (Optional) I also recommend familiarizing yourself with the deities of the [Circle](/caius-deities/#the-circle) as they are the most prevalent and will likely be regularly referenced by NPCs.
 5. (Optional) Read as much or as little of the world information as you like! If you have questions or anything is unclear, please reach out!
-6. Make your character and provide the requested information from the [character creation](#charactercreation) section to your DM.
+6. Make your character and provide the requested information from the [character creation](#character-creation) section to your DM.
 
 *[NPCs]: Non-Player Characters
 
@@ -33,7 +36,7 @@ Please use the following guidelines when creating a character:
   - Minecraft
   - Strixhaven (spells from this book are allowed, just no subclasses or feats)
 - Some material will be limited (i.e. Spelljammer) because it will not make sense thematically, please ask if you want to use a background or feat that you are unsure about
-- All characters must be familiar with [Hilda Skyhelm](/loc/npcs-main/#hildaskyhelm)
+- All characters must be familiar with [Hilda Skyhelm](/loc/npcs-main/#hilda-skyhelm)
 
 *[WotC]: Wizards of the Coast
 
@@ -42,7 +45,7 @@ In addition, after reading through some of the information in the world guide, p
 2. What does your character want in life?
 3. What has your character been doing until recently?
 4. Are there any notable people that are important to them? If so, why are they important?
-5. How does your character know [Hilda](/loc/npcs-main/#hildaskyhelm)?
+5. How does your character know [Hilda](/loc/npcs-main/#hilda-skyhelm)?
 
 Please provide as much information as desired - do not feel obligated to write a novel! These are to make my life a little easier for long term preparation, so we can always discuss more later as needed.
 
