@@ -20,7 +20,7 @@ Maps and lists of notable locations that have been discovered or visited.
 [<font size="5">Organizations</font>](/organizations)<br>
 Government and other independent organizations of the world.
 
-[<font size="5">Deities</font>](/loc/deities)<br>
+[<font size="5">Deities</font>](/deities/)<br>
 List of deities that are present in the world.
 
 [<font size="5">The Planestorm</font>](/planestorm)<br>

@@ -20,7 +20,7 @@ This site is meant to act as a reference for you to help keep track of names and
 3. Read through the [Race](/races/) information for the character you want to play to learn a little background about what the world might have been like for your character prior to the start of the adventure.
 4. (Optional) I also recommend familiarizing yourself with the deities of the [Circle](/deities/#the-circle) as they are the most prevalent and will likely be regularly referenced by NPCs.
 5. (Optional) Read as much or as little of the world information as you like! If you have questions or anything is unclear, please reach out!
-6. Make your character and provide the requested information from the [character creation](#character-creation) section to your DM.
+6. Make your character and provide the requested information from the [character creation](#character-creation) section.
 
 *[NPCs]: Non-Player Characters
 
@@ -54,7 +54,7 @@ Please provide as much information as desired - do not feel obligated to write a
  
 ### Homebrew
 
-Any desired homebrew classes or subclasses must be approved prior to use. The player is responsible for implementing the homebrew class options into DNDBeyond. If a homebrew class results in a character being overly powerful or underwhelming, adjustments can be dicussed.
+Any desired homebrew classes or subclasses must be approved prior to use. The player is responsible for implementing the homebrew class options into DNDBeyond. If a homebrew class results in a character being overly powerful or underwhelming, adjustments can be discussed.
 
 ### House Rules
 
@@ -69,7 +69,7 @@ Candidate rules:
   * Impose disadvatage on the target
   * Give advantage on the next attack against the target
 - Flanking provides advantage
-- New Condition: **Dazed**[^1] A dazed creature can only do one of the following things on their turn: move, use an action, or use a bonus action. If a creature becomes dazed during their turn, their turn ends. The *cure ailment* power, *lesser restoration* spell, and *greater restoration* spell remove the dazed condition. At the GM’s discretion, other powers, spells, or effects might also remove the dazed condition. When a dazed creature is affected by a spell or effect that gives them an extra action on their turn (like the haste spell or the fighter’s Action Surge feature), they can still take this extra action, in addition to the movement, action, or bonus action allowed by the dazed condition.
+- New Condition: **Dazed**[^1]. A dazed creature can only do one of the following things on their turn: move, use an action, or use a bonus action. If a creature becomes dazed during their turn, their turn ends. The *cure ailment* power, *lesser restoration* spell, and *greater restoration* spell remove the dazed condition. At the GM’s discretion, other powers, spells, or effects might also remove the dazed condition. When a dazed creature is affected by a spell or effect that gives them an extra action on their turn (like the haste spell or the fighter’s Action Surge feature), they can still take this extra action, in addition to the movement, action, or bonus action allowed by the dazed condition.
 
 *[RAW]: rules as written
 [^1]: "Flee Mortals! The MCDM Monster Book" [Link](https://shop.mcdmproductions.com/collections/flee-mortals-the-mcdm-monster-book)
