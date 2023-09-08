@@ -1,12 +1,25 @@
 ---
 layout: single
-title: Rules
+title: Campaign Rules
 permalink: /loc/rules/
 sidebar:
   nav: campaign-resources
 ---
 
-This page lists the special rules that will be applied throughout the campaign including character creation, house rules, and homebrew. These are subject to change going forward depending on player and DM sentiment, but will be agreed upon as a group.
+This page lists everything you need to know to start playing in Terranea. This includes the special rules for character creation, house rules, and homebrew. These are subject to change going forward depending on player and DM sentiment, but will be agreed upon as a group.
+
+### Getting Started
+
+This site is meant to as a reference for you to help keep track of names and setting details. To play in this world I recommend going in the following order:
+
+1. It is recommended you start here on this page to get a feel for the [character creation](#charactercreation) guidelines and the miscellaneous [house](#houserules)/[homebrew](#homebrew) rules we will be using.
+2. I recommend reading through the [History](/history/) to provide some context for the rest of the information provided. 
+3. Read through the [Race](/species/) information for the character you want to play to learn a little background about what the world might have been like for your character prior to the start of the adventure.
+4. (Optional) I also recommend familiarizing yourself with the deities of the [Circle](/caius-deities/#thecircle) as they are the most prevalent and will likely be regularly referenced by NPCs.
+5. (Optional) Read as much or as little of the world information as you like! If you have questions or anything is unclear, please reach out!
+6. Make your character and provide the requested information from the [character creation](#charactercreation) section to your DM.
+
+*[NPCs]: Non-Player Characters
 
 ### Character Creation
 

@@ -14,10 +14,10 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Read more"
   - image_path: /assets/images/book_icon.png
-    alt: "campaign-resources"
-    title: "Campaign Resources"
-    excerpt: "All the things needed to create a character on Terranea, and the records from the current adventure."
-    url: "/campaign-resources/"
+    alt: "getting-started"
+    title: "Getting Started"
+    excerpt: "All the things needed to create a character in Terranea and start playing."
+    url: "/rules/"
     btn_class: "btn--primary"
     btn_label: "Read more"
   - image_path: /assets/images/map_icon.png
