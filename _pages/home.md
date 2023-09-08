@@ -17,7 +17,7 @@ feature_row:
     alt: "getting-started"
     title: "Getting Started"
     excerpt: "All the things needed to create a character in Terranea and start playing."
-    url: "/rules/"
+    url: "/loc/rules/"
     btn_class: "btn--primary"
     btn_label: "Read more"
   - image_path: /assets/images/map_icon.png
