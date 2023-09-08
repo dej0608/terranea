@@ -11,7 +11,7 @@ toc_icon: "book"
 
 ## The Circle
 
-The gods and goddesses of the Circle are the most prevalently worshipped deities in the Holy Republic of Caius. The church of Caius is dedicated to the equal worship of all the deities of the Circle. Although some individuals may pray to a singular god for a specific purpose, organized church activities involve their shared worship. Deities of the Circle are not typically portrayed as good or evil, but as neutral conservators of their domain. The Circle takes residence in the Chalice, a floating throne that hovers miles directly above the Holy City of Caius. Caius Tower acts as a magical bridge between the Chalice and the land below through which the gods may delivers blessings upon the people. Only the Pope and those he deems worthy are allowed to cross the bridge to the Chalice.
+The gods and goddesses of the Circle are the most prevalently worshipped deities in the Holy Republic of Caius. The church of Caius is dedicated to the equal worship of all the deities of the Circle. Although some individuals may pray to a singular god for a specific purpose, organized church activities involve their shared worship. Deities of the Circle are not typically portrayed as good or evil, but as neutral conservators of their domain. The Circle takes residence in the Chalice, a floating throne that hovers miles directly above the Holy City of Caius. Caius Tower acts as a magical bridge between the Chalice and the land below through which the gods may deliver blessings upon the people. Only the Pope and those he deems worthy are allowed to cross the bridge to the Chalice.
 
 | Deity | Domain |
 |-------|--------|
@@ -27,7 +27,7 @@ The gods and goddesses of the Circle are the most prevalently worshipped deities
 
 ## Minor Deities
 
-The worship of minor deities varies from uncommon to problematic depending on the deity. While some of these minor deities have niche domains (e.g. Hedenar for smiths and Artificers, Aktia for merchants and gamblers), some are widely considered to be evil and those who worship them are shunned by soceity and must practice their worship in secret. 
+The worship of minor deities varies from uncommon to problematic depending on the deity. While some of these minor deities have acceptable niche domains (e.g. Hedenar for smiths and Artificers, Aktia for merchants and gamblers), some are widely considered to be evil and those who worship them are shunned by society and must practice their worship in secret. 
 
 | Deity | Domain |
 |-------|--------|
@@ -78,12 +78,12 @@ Grim'shak is most commmonly worshipped by the Orc and Goblin tribes that dot the
 ### Hedenar
 *Minor, neutral*
 
-Hedenar is a minor god of the forge, and is most commonly worshipped by blacksmiths, artificers, and other artisans in addition to the deities of the Circle.
+Hedenar is a minor god of the forge, and is most commonly worshipped by blacksmiths, artificers, and other artisans.
 
 ### Ifradi
 *Minor, evil*
 
-Ifradi is the primary goddess of the Underdark population, who were abandoned and cursed by the Circle. Ifradi is a relatively new goddess in the greater pantheon, having come to power in the millenia since the Invasion. The denizens of the underdark are reluctant to share their stories and views, but a common prayer uttered by the Drow losely translates to "May we be protected by her darkness such that we may endure the treachery of the light."
+Ifradi is the primary goddess of the Underdark population, who were abandoned and cursed by the Circle. Ifradi is a relatively new goddess in the greater pantheon, having come to power in the millenia since the Invasion. The denizens of the underdark are reluctant to share their stories and views, but a common prayer uttered by the Drow loosely translates to "May we be protected by her darkness such that we may endure the treachery of the light."
 
 ### Lumos
 *Circle*

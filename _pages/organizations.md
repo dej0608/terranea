@@ -23,7 +23,7 @@ The Pope of Caius is the leader of the Church and the executive head of the coun
 
 #### Holy Order
 
-The Holy Order is the sect of the Church that manages the clerics and the priesthood distributed across the country. The majority of members are priests and clerics that serve their communities and provide insights to the local populace. Individual clerics might be dedicated to one member of the Circle in particular, but all are expected to know the general teachings of the other gods. Most practicing Clerics are members of the Holy Order, but some choose to work independently and travel the land as missionaries without the same level or oversight.
+The Holy Order is the sect of the Church that manages the clerics and the priesthood distributed across the country. The majority of members are priests and clerics that serve their communities and provide insights to the local populace. Individual clerics might be dedicated to one god of the Circle in particular, but all are expected to know the general teachings of the other gods. Most practicing Clerics are members of the Holy Order, but some choose to work independently and travel the land as missionaries without the same level of oversight.
 
 #### Justicars
 
@@ -39,7 +39,7 @@ The Arcanus is the ordained ministry of wizards. Members of the Arcanus are prim
 
 #### Guild Artifice
 
-The Guild Artifice is the Church sanctioned organization for artificers and alchemists. On occasion, Ozros will bestow technological "gifts" upon the world. The Guild Artifice will reverse engineer the technology and adapt it for distribution and use. Artificers in the guild are limited to the exploration of the technologies provided by the gods. As they are divine in origin, it is the Church's belief that unless a technology is shared with the mortal people, that they are not worthy of it's use. This policy drives a division between Artificers who follow the teachings of the Church and those who wish to explore technological development without being stymied by laws they feel are unnecessary. The latter have formed an underground organization known as The Makers, that work outside the oversight of the Church.
+The Guild Artifice is the Church sanctioned organization for artificers and alchemists. On occasion, Ozros will bestow technological "gifts" upon the world. The Guild Artifice will reverse engineer the technology and adapt it for distribution and use. Artificers in the guild are limited to the exploration of the technologies provided by the gods. As they are divine in origin, it is the Church's belief that unless a technology is shared with the mortal people, that they are not worthy of it's use. This policy drives a division between Artificers who follow the teachings of the Church and those who wish to explore technological development without being stymied by laws they feel are unnecessary. The latter have formed an underground organization known as [The Makers](/organizations/#themakers), that work outside the oversight of the Church.
 
 #### Protectorate
 
@@ -47,13 +47,13 @@ The Protectorate is a special corp of warriors recruited by the Church to mitiga
 
 ### Caius Parliament
 
-The Parliament of the holy Republic of Caius is responsible for policymaking, creating and enacting laws for the whole of the country. 
+The Parliament of the Holy Republic of Caius is responsible for policymaking, creating and enacting laws for the whole of the country. 
 
-The Holy Republic of Caius is divided into six provincial districts, each subdivided into a varying number of local districts. Each local district elects a representative to Parliament, and the representatives elect a Provincial Speaker who represent the larger provincial districts. The six Provincial Speakers make up the High Electorate, which is responsible for legislative oversight and decorum and oversight of the Pope. 
+The Holy Republic of Caius is divided into six provincial districts, each subdivided into a varying number of local districts. Each local district elects a representative to Parliament, and the representatives elect a Provincial Speaker who represent the larger provincial districts. The six Provincial Speakers make up the High Electorate, which is responsible for legislative oversight and decorum, and oversight of the Pope. 
 
 ## Other Organizations
 
-There are many organizations and factions that do not report directly to the Church or local government. 
+There are many organizations and factions that are not affiliated with the Church or local government. 
 
 ### The Makers
 

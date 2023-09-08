@@ -23,11 +23,11 @@ Gigas is the only Titan that has been slain - the final blow delivered by former
 
 ### Leviathan
 
-Leviathan is a gargantuan snake-like creature that appears exclusively underwater, tormeting undersea settlements and port cities. Its tidal waves can level entire towns and its spawn are adept both underwater and on land. Because it appears underwater, it is not always observed first hand by the Republic. It is speculated that Leviathan has appeared during longer periods of Titan absence unbeknownst to the record-keepers.
+Leviathan is a gargantuan snake-like creature that appears exclusively underwater, tormenting undersea settlements and port cities. Its tidal waves can level entire towns and its spawn are adept both underwater and on land. Because it appears underwater, it is not always observed first hand by the Republic. It is speculated that Leviathan has appeared during longer periods of Titan absence unbeknownst to the record-keepers.
 
 ### Jadwiga
 
-There are very few eyewitness accounts of Jadwiga, as most who are unfortunate enough to come close enough to see her typically do not survive. Jadwiga takes the form of an average sized humanoid woman with long black hair that extends outwards in tendrils. She has total control of the elements. As such, the ruins and corpses she leaves behind vary: burned, frozen, disentegrated, and so on. Witnesses claim that those who make eye contact experience a powerful mind blast that can cause their skull to explode in an instant. The Titanspawn that emerge from her are often elemental or magical in nature.
+There are very few eyewitness accounts of Jadwiga, as most who are unfortunate enough to come close enough to see her typically do not survive. Jadwiga takes the form of an average sized humanoid woman with long black hair that extends outwards in smoking black tendrils. She has total control of the elements. As such, the ruins and corpses she leaves behind vary: burned, frozen, disentegrated, and so on. Witnesses claim that those who make eye contact experience a powerful mind blast that can cause their skull to explode in an instant. The Titanspawn that emerge from her are often elemental or magical in nature.
 
 ### Myrkvior
 
@@ -35,4 +35,4 @@ Mryvior is a living plant that drains the life from all living beings it can get
 
 ### Prukal
 
-There is no record of Prukals appearance, as its presence is accompanied by an all-encompassing magical darkness. Inidividuals who can see in magical darkness who return claim to never have seen the monster. The destruction Prukal leaves is unique in that there are nearly no signs of destruction to buildings and terrain. However, ghost towns are left in its wake. The living creatures that reside it the locations it appears simply disappear and are never seen again.
+There is no record of Prukal's appearance, as its presence is accompanied by an all-encompassing magical darkness. Individuals who can see in magical darkness that have approached it, and managed to return, claimed to never have seen the monster. The destruction Prukal leaves is unique in that there are nearly no signs of destruction to buildings and terrain. However, ghost towns are left in its wake. The living creatures that reside it the locations where it appears simply disappear and are never seen again.

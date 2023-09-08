@@ -28,7 +28,7 @@ Aasimar are the descendents of Celestials and the mortal inhabitants of Terranea
 
 ### Beastkin
 
-The term "Beastkin" is a catch-all term for the beastial races on Terranea. This group includes most species that are humanoid, but animal in appearance. Many have integrated themselves into Republic civilization and are a common sight within the major cities and towns, but historically are the primary denizens of nomadic tribes that circulate around the continent. These tribes are not necessarily restricted to one subspecies, as many of them have a variety of species and subspecies travleing within them.
+The term "Beastkin" is a catch-all term for the beastial races on Terranea. This group includes most species that are humanoid, but animal in appearance. Many have integrated themselves into Republic civilization and are a common sight within the major cities and towns, but historically are the primary denizens of nomadic tribes that circulate around the continent. These tribes are not necessarily restricted to one subspecies, as many of them have a variety of species and subspecies traveling within them.
 
 Religious practices vary between tribes. While many worship the common gods of Caius as a means of paying penance for their people's absence during the Invasion millenia ago, many do not worship a god at all, opting to view natural phenomena as a give-and-take between the people and the natural world. Although it is not typical, many citizens of the Republic still carry animosity towards the Beastkin for their lack of assitance during the Invasion. This sentiment, in conjunction with the practice of some tribes of worshipping no gods, have resulted in the Beastkin being referred to as "Godless" - often intended as an insult.
 
@@ -53,7 +53,9 @@ Unlike other denizens of the underground, the dwarves' ties to the overworlders 
 
 ### Elf
 
-The betrayal of the elves during the invasion led to a curse that decreases their once several hundred year lifespan to only 50 years. This betrayal has made the elves one of the most persecuted peoples in Caius, and they are often treated as second class citizens in many settlements. Despite this curse and the disrespect suffered by others, many elves - especically those among the elven nobility - still perceive themselves as a superior race and are unwilling to rely upon the help of others and often deny any intermingling with other races unless it is for the purposes of trade. For this reason, mixed race elves are exceptionally rare - limited only to special circumstances or those born to elves in exile. All elves suffer from this curse regardless of subrace (High elf, Wood elf, Dark elf/Drow, Eladrin, Shadar-kai, etc.). There are many factions of elves spread across Aeros who seek to end the curse, and each faction has a unique strategy for doing so that can sometimes cause disagreements within a group. Some of the more purist societies lean on strategies of selective breeding to try and maintain the bloodline, while others utilize more scientific methods of extending their lifespan, utilizing necromancy or artificer prosthetics.
+The betrayal of the elves during the invasion led to a curse that decreases their once several hundred year lifespan to only 50 years. This betrayal has made the elves one of the most persecuted peoples in Caius, and they are often treated as second class citizens in many settlements. Despite this curse and the disrespect suffered by others, many elves - especially those among the elven nobility - still perceive themselves as a superior race and are unwilling to rely upon the help of others and often deny any intermingling with other races unless it is for the purposes of trade. For this reason, mixed race elves are exceptionally rare - limited only to special circumstances or those born to elves in exile. All elves suffer from this curse regardless of subrace (High elf, Wood elf, Dark elf/Drow, Eladrin, Shadar-kai, etc.). 
+
+There are many factions of elves spread across Aeros who seek to end the curse, and each faction has a unique strategy for doing so that can sometimes cause disagreements within a group. Some of the more purist societies lean on strategies of selective breeding to try and maintain the bloodline, while others utilize more scientific methods of extending their lifespan, utilizing necromancy or artificer prosthetics.
 
 ### Fairy
 
@@ -61,7 +63,7 @@ Included among the Fey, the ancestors of the fairies that reside on Aeros were f
 
 ### Firbolg
 
-The firbolgs are most prominent in druidic circles, but are regularly seen across Caius. They are often seen on pilgrimages to other villages of druids, and rarely have cause to visit the major cities of Caius for any reason other than curiosity. Those who have abandoned their pilgrimage or whos ancestors did, have made lives for themselves among the general populace.
+The firbolgs are most prominent in druidic circles, but are regularly seen across Caius. They are often seen on pilgrimages to other villages of druids, and rarely have cause to visit the major cities of Caius for any reason other than curiosity. Those who have abandoned their pilgrimage or whose ancestors did, have made lives for themselves among the general populace.
 
 ### Genasi
 
@@ -77,7 +79,7 @@ Goblins will occasionally leave their clans and join Republic society, but typic
 
 ### Goliath
 
-Goliaths are the descendents of the clans of giants that invaded the world millenia ago. They retreated to the mountains, where their survived in the wilderness, living off of the land and forming new self-sufficient tribes. The strongest of these tribes would receive the blessing to split off and create their own, for good or ill. The eastern regions rarely see Goliaths and remain fearful of these giant people, but some townships closer to their homes have established trade relationships with some tribes. While Goliaths are very uncommon outside of their mountain home, some do leave their tribe for a variety of reasons. 
+Goliaths are the descendents of the clans of giants that invaded the world millenia ago. They retreated to the mountains, where they survived in the wilderness, living off of the land and forming new self-sufficient tribes. The strongest of these tribes would receive the blessing to split off and create their own, for good or ill. The eastern regions rarely see Goliaths and remain fearful of these giant people, but some townships closer to their homes have established trade relationships with some tribes. While Goliaths are very uncommon outside of their mountain home, some do leave their tribe for a variety of reasons. 
 
 ### Halfling
 
@@ -105,8 +107,8 @@ The tieflings are descended from the fiends that invaded Terranea and were trapp
 
 ### Triton
 
-The tritons are rarely seen above water, seeking to maintain their solitude in the ocean. The storm brings its own challenges to the oceans, stirring up the currents and making life much more hazardous than it once was. The main benefit of life underwater is the presence of only one known Titan who appears in the ocean - Leviathan.
+The tritons are rarely seen above water, seeking to maintain their solitude in the ocean. The storm brings its own challenges to the oceans, stirring up the currents and making life much more hazardous than it once was. The main benefit of life underwater is the presence of only one known Titan who appears in the ocean - [Leviathan](/titans/#leviathan).
 
 ### Warforged
 
-The warforged were created by the Artificers of old to supplement the weakend celestial armies during the Invasion. Today, the warforged act more as servants than as soldiers, as most were decommissioned after the war and repurposed for peacetime. The warforged typically dutifully serve the church and state, but some have come to be servants for noble households and government officials. Some people who had strong attachements to the provately owned warforged in their employ have been known to release them from servitude, allowing them freedom to act as they will. These freed warforged people, however, are few.
+The warforged were created by the Artificers of old to supplement the weakened celestial armies during the Invasion. Today, the warforged act more as servants than as soldiers, as most were decommissioned after the war and repurposed for peacetime. The warforged typically dutifully serve the church and state, but some have come to be servants for noble households and government officials. Some people who had strong attachments to the privately owned warforged in their employ have been known to release them from servitude, allowing them freedom to act as they will. These freed warforged people, however, are few.
