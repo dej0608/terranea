@@ -17,8 +17,8 @@ This site is meant to act as a reference for you to help keep track of names and
 
 1. It is recommended you start here on this page to get a feel for the [character creation](#character-creation) guidelines and the miscellaneous [house](#house-rules)/[homebrew](#homebrew) rules we will be using.
 2. I recommend reading through the [History](/history/) to provide some context for the rest of the information provided. 
-3. Read through the [Race](/species/) information for the character you want to play to learn a little background about what the world might have been like for your character prior to the start of the adventure.
-4. (Optional) I also recommend familiarizing yourself with the deities of the [Circle](/caius-deities/#the-circle) as they are the most prevalent and will likely be regularly referenced by NPCs.
+3. Read through the [Race](/races/) information for the character you want to play to learn a little background about what the world might have been like for your character prior to the start of the adventure.
+4. (Optional) I also recommend familiarizing yourself with the deities of the [Circle](/deities/#the-circle) as they are the most prevalent and will likely be regularly referenced by NPCs.
 5. (Optional) Read as much or as little of the world information as you like! If you have questions or anything is unclear, please reach out!
 6. Make your character and provide the requested information from the [character creation](#character-creation) section to your DM.
 
