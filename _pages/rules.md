@@ -58,20 +58,28 @@ Any desired homebrew classes or subclasses must be approved prior to use. The pl
 
 ### House Rules
 
-The house rules that will be followed for the remainder of the campaign will be documented here. This is mainly to alleviate confusion and to help your DM remember the rules they agreed to. 
-
-*Rules will be established and agreed upon during session 0*
-
-Candidate rules:
+The house rules that will be followed for the remainder of the campaign will be documented here. This is mainly to alleviate confusion and to help your DM remember the rules they agreed to. These are the rules we will be using:
 
 - Healing potions can heal for their maximum amount if a full action is used to drink it. They heal for the regular rolled amount if used as a bonus action or if feeding to another player. 
 - Critical hit damage is rolled using RAW, but the target is staggered, and the person who lands the hit can decide to either:
-  * Impose disadvatage on the target
+  * Impose disadvantage on the target
   * Give advantage on the next attack against the target
-- Flanking provides advantage
+- Flanking provides +2 on melee attack rolls against the target (player responsibility to track)
 - New Condition: **Dazed**[^1]. A dazed creature can only do one of the following things on their turn: move, use an action, or use a bonus action. If a creature becomes dazed during their turn, their turn ends. The *cure ailment* power, *lesser restoration* spell, and *greater restoration* spell remove the dazed condition. At the GM’s discretion, other powers, spells, or effects might also remove the dazed condition. When a dazed creature is affected by a spell or effect that gives them an extra action on their turn (like the haste spell or the fighter’s Action Surge feature), they can still take this extra action, in addition to the movement, action, or bonus action allowed by the dazed condition.
 - Death saves are made by DM in secret
-- Inspiration provided by other players once per level
+- Inspiration provided by other players once per level. Inspiration can be awarded only to other players, and must be awarded prior to a given role. Feel free to award to another player for any reason! If the inspiration is not awarded prior to leveling up, it is lost (they cannot stack).
+- When combat is clearly developing, and you have an ability you would naturally be preparing, you may use a **bonus action** prior to combat to perform that ability. This does not apply in the event of a surprise.
+- Mercer Death Saves: When a creature is resurrected, a roll is made against a DC, which begins at 10. For each time the creature dies, their death DC is increased by 1.
+  * When a creature is targeted by the spell Revivify, the caster makes a spellcasting ability check against the target's death DC. On a success, the spell takes hold and the creature is resurrected. On a failure, the creature's death DC is increased by 1, and they can't be resurrected until they are resurrected by a spell with a casting time longer than one action.
+  * When a creature is targeted by a resurrection spell with a casting time longer than one action, such as Raise Dead or Resurrection, a ritual is initiated in which up to 3 creatures can contribute in order to call the creature's soul back to their body. The creature makes an ability check with a skill the DM deems appropriate for the action, against a DC that the DM also determines.
+  * For each successful check, the creature's death DC is lowered by 3 for this ritual. For each failure, it increases by 1 for this ritual. The DM will bring the player into a private chat, where the player makes the final roll against this DC.
+  * The DC is not revealed to the player until AFTER the roll has been made.
+  * On a success, the creature is returned to life if its soul is willing. On a failure, the creature's soul is lost, and further resurrection rituals fail automatically.
+  * Only the strongest of magic can bypass this ritual, in the form the True Resurrection or Wish spells. These spells can also return to life a creature whose soul was lost from a failed ritual.
+  
+Potential candidate rules that may be considered later, but will not be enforced for the time being:
+
+- Returning from the dying condition has more significant penalties (exhaustion, wounds, etc.; lesser restoration cures lingering death saves)
 
 *[RAW]: rules as written
 [^1]: "Flee Mortals! The MCDM Monster Book" [Link](https://shop.mcdmproductions.com/collections/flee-mortals-the-mcdm-monster-book)
