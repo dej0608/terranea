@@ -1,0 +1,9 @@
+# /_data/authors.yml
+
+DM:
+    name: DM
+    bio: The one that made up this crazy place.
+Hazel:
+    name: Hazel Vandorin
+    bio: Witch, occasionally talks to herself.
+    avatar: /assets/images/hazel_token_3_150x150.png
