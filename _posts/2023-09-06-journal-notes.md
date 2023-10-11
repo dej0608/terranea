@@ -1,6 +1,7 @@
 ---
 layout: single
 title:  "Journal Notes"
+author: DM
 date:   2023-09-06 11:00:00 -0500
 categories: journal
 read_time: false
