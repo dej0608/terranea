@@ -16,7 +16,11 @@ This is a list of notable NPCs the party has met during their adventure. They ar
 ### Hilda Skyhelm
 *Dwarf, she/her*
 
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/hilda_token_150x150.png){: .align-left}Hilda was a sailor from a shipping company who had long dreamed of buying her own ship and setting out on her own. She can be a bit bullheaded, but has an overall cheerful disposition that made her a fast friend. She is an avid collector of old artifacts, and loves showing off whatever new trinket she stumbles across. In her travels she had met each of the PCs and developed a friendship with each of them prior to the beginning of the campaign. 
+<figure style="width: 150px;height: 150px" class="align-left">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/hilda_token.png" alt="">
+</figure> 
+
+Hilda was a sailor from a shipping company who had long dreamed of buying her own ship and setting out on her own. She can be a bit bullheaded, but has an overall cheerful disposition that made her a fast friend. She is an avid collector of old artifacts, and loves showing off whatever new trinket she stumbles across. In her travels she had met each of the PCs and developed a friendship with each of them prior to the beginning of the campaign. 
 
 She sent a letter to each of them containing a skyship ticket from Geprusar to Ashborne asking them to meet her in the nearby village of Jorren's Rest. She had found a map leading to a mythical skyship, the *Harbinger*, and needed a crew to fill it. After briefly losing the map and the required gemstone to operate it, the party managed to recover it and get the long wrecked ship running once again, renaming it *Stormbreaker*.
 
@@ -24,6 +28,10 @@ Hilda is now the acting captain of the Stormbreaker and acts as the party's patr
 
 ### NOVA
 *AI, they/them*
+
+<figure style="width: 150px;height: 150px" class="align-left">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/nova_token.png" alt="">
+</figure> 
 
 The Nautical Operations and Vehicle Administrator (N.O.V.A.) is the AI interface to the skyship *Stormbreaker*. NOVA oversees all on-ship activities and can control aspects of the ship in the absence of a crew member, allowing the ship to operate even with an incomplete crew. They act as a caretaker for the crew, and can provide available information from any location on board the ship.
 
@@ -49,6 +57,10 @@ The witch matriarch of the kobold clan living among the old *Harbinger* ruins wh
 
 ### Tobias Armin
 *Human, he/him*
+
+<figure style="width: 150px;height: 150px" class="align-left">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/tobias_token.png" alt="">
+</figure> 
 
 The previous constable of Jorren's Rest who was discovered by the party to have stolen Hilda's map and gemstone after overhearing that they were needed to fly an ancient lost skyship.  He had long been accumulating funds by accepting bribes and skimming from taxes in order to fund his way out of the town and onto a skyship. He is a survivor of the titan attack on the town of Norrholm, where his parent died. He relocated to Jorren's Rest afterwards, but held on to the paranoia for the ever looming threat of a titan attack - convinced that the only way to avoid one was to be constantly on the move. To cover his tracks he regularly used the local hunters who had previously been convicted of theivery as a scapegoat.
 
