@@ -23,6 +23,14 @@ The capital of the Holy Republic of Caius, housing the headquarters of each gove
 
 The capital of the Geprus province.
 
+#### Port Revelry
+
+A once large city nestled in the Geprusian Bay, it was razed by the titan [Jadwiga](/titans/#jadwiga) in SY 7659, leaving it in ruins. Since then, the city has wasted away, having been attacked by a titan twice in the last 200 years. 
+
+Although still formally under the Church's purview, the city leadership is heavily influenced by a mafia-like group called *The Abandoned* that controls the city from the shadows. Two other organizations of note operate within the city: *The Crows*, a thieves guild that has many chapters spread across the large cities of Aeros, and *The Whispers*, a secretive group of information brokers that sell to the highest bidder.
+
+[Hilda](/loc/npcs-main/#hilda-skyhelm) has numerous friends here - old pirates who have lost their crew - and recruits them to join the crew of the *Stormbreaker*.
+
 ### Small Cities & Towns
 
 #### Ashborne
