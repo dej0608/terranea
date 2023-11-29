@@ -14,10 +14,10 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Read more"
   - image_path: /assets/images/book_icon.png
-    alt: "getting-started"
-    title: "Getting Started"
-    excerpt: "All the things needed to create a character in Terranea and start playing."
-    url: "/loc/rules/"
+    alt: "journal"
+    title: "Journal"
+    excerpt: "Follow our journey through the Lies of Caius campaign!"
+    url: "/loc/journal/"
     btn_class: "btn--primary"
     btn_label: "Read more"
   - image_path: /assets/images/map_icon.png
