@@ -5,5 +5,17 @@ DM:
     bio: The one that made up this crazy place.
 Hazel:
     name: Hazel Vandorin
-    bio: Witch, occasionally talks to herself.
+    bio: Auntie Haze - Kobold mama and animal friend.
     avatar: /assets/images/hazel_token_3_150x150.png
+Torren:
+    name: Torren Raleigh
+    bio: Just a bladesinger looking for his dad
+    avatar: /assets/images/torren_token_3_150x150.png
+Jasiri:
+    name: Jasiri Mwenye-Fahari
+    bio: Paladin looking out for the little guy
+    avatar: /assets/images/jasiri_token_3_150x150.png
+Vaelyn:
+    name: Vaelyn Eshros
+    bio: Rogue with a very particular diet
+    avatar: /assets/images/vaelyn_token_3_150x150.png
