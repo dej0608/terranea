@@ -9,7 +9,7 @@ toc_label: "Contents"
 toc_icon: "book"
 ---
 
-## Aeros
+## The Holy Republic of Caius (Continent of Aeros)
 <div id="map" style="width: 600px; height: 540px;"></div>
 <script>
 	var map = L.map('map', {
