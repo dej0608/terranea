@@ -10,8 +10,44 @@ toc_icon: "book"
 ---
 
 ## Aeros
+<div id="map" style="width: 600px; height: 540px;"></div>
+<script>
+	var map = L.map('map', {
+		crs: L.CRS.Simple,
+		minZoom: -1,
+		zoomAnimation: false
+	});
+	
+	var bounds = [[0,0], [1080,1200]];
+	var image = L.imageOverlay("/assets/images/terranea_with_labels_1.png", bounds).addTo(map)
+	
+	map.fitBounds(bounds);
+	// map.setMaxBounds(bounds);
+	
+	var yx = L.latLng;
 
-{% include figure image_path="/assets/images/terranea_no_labels.png" alt="unlabeled map" %}
+	var xy = function(x, y) {
+		if (Array.isArray(x)) {    // When doing xy([x, y]);
+			return yx(x[1], x[0]);
+		}
+		return yx(y, x);  // When doing xy(x, y);
+	};
+	
+	//var hcoc = xy(618,1080-563);
+	//L.marker(hcoc).addTo(map).bindPopup('Holy City of Caius');
+	//var shelter1 = L.marker(hcoc);
+	//var shelterMarkers = new L.FeatureGroup();
+	
+	//shelterMarkers.addLayer(shelter1).bindPopup('Holy City of Caius');
+	
+	//map.on('zoomend', function() {
+	//	if (map.getZoom() < -0.1) {
+	//		map.removeLayer(shelterMarkers);
+	//	} else {
+	//		map.addLayer(shelterMarkers);
+	//	}
+	//});
+</script>
 
 ### Large Cities
 
