@@ -21,6 +21,9 @@ List of important NPCs the players have met.
 [<font size="5">Campaign Rules</font>](/loc/rules)<br>
 Guidance for characer creation and homebrew rules for the campaign.
 
+[<font size="5">Stormbreaker</font>](/loc/stormbreaker)<br>
+Description of ship stats and resources.
+
 [<font size="5">Downtime Activities</font>](/loc/downtime-activities)<br>
 Downtime activity options and rules.
 
