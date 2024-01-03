@@ -36,5 +36,7 @@ campaign-resources:
           url: /loc/rules/
         - title: Downtime Activities
           url: /loc/downtime-activities/
+        - title: Stormbreaker
+          url: /loc/stormbreaker
         - title: Journal
           url: /loc/journal/
