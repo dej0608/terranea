@@ -31,12 +31,14 @@ There are plenty of odd jobs around the ship that need to be done. You can spend
 
 ### Carousing 
 **Cost: 10 gp**
+
 *One work week - overtime unavailable*
 
 A week at the tavern can help you get to know the people around you and build trust, make new connections, and hear the gossip on the ship you may not otherwise hear. A Persuasion check determines your success. More information on [Carousing](https://www.dndbeyond.com/sources/xgte/downtime-revisited#Carousing) can be found in XGE.
 
 ### Gamble 
 **Cost: 1-25 gp**
+
 *One work week - overtime unavailable*
 
 Plenty of your crewmates are looking to let off some steam and collect a little coin. [Gambling](https://www.dndbeyond.com/sources/xgte/downtime-revisited#Gambling) (see XGE) requires 3 checks: Insight, Deception, & Intimidation. If you have proficiency with an appropriate gaming set, that tool proficiency can replace one of the relevant skills. 
@@ -45,12 +47,14 @@ Plenty of your crewmates are looking to let off some steam and collect a little 
 
 ### Crafting
 **Cost varies**
+
 *One work week - overtime available*
 
 See [PHB](https://www.dndbeyond.com/sources/phb/adventuring#Crafting) and [XGE](https://www.dndbeyond.com/sources/xgte/downtime-revisited#CraftinganItem) crafting rules for basics. Must be proficient in tools related to the object being created. Time to craft and cost to craft are negotiable depending on character capabilities, connections, and resources.
 
 ### Researching
 **Cost: 10 gp**
+
 *One work week - overtime available*
 
 See [PHB Researching rules](https://www.dndbeyond.com/sources/phb/adventuring#Researching). Spend your time researching a specific topic. Multiple checks may be required as you work. Depending on the research topic, more than one week might be required to find answers.
@@ -67,18 +71,21 @@ Spend the week working performing religious services on-board the ship and at po
 
 ### Scribe a Spell Scroll
 **Cost varies**
+
 *One work week - overtime available*
 
 Requires proficiency in Arcana. One or more spell scrolls can be made over the course of a week, or progress can be made towards one of a higher level. The amount of time and money required to scribe a scroll depends on the level of the spell to be written. In order to scribe a spell, the character must have it prepared and have the material components for that spell on-hand. Detailed information on the costs for each spell level can be found in [XGE](https://www.dndbeyond.com/sources/xgte/downtime-revisited#ScribingaSpellScroll).
 
 ### Training
 **Cost: 50 gp**
+
 *One work week - overtime available*
 
 If you have an instructor available who is willing to teach you a skill (or an ally willing to donate their down time) you can make progress towards learning a language or gaining a new proficiency. You can typically earn this in 8 weeks.
 
 ### Side Quests
 **Cost varies**
+
 *Time varies (One week minimum)*
 
 Over the course of the adventure, side quests may appear. These can manifest through getting to know crewmates, the Protectorate job board, in the course of another downtime activity, or any other task that has you out in the world. These quests come in two forms: ones that can be done by the group or ones that can be done solo. This section focuses on the latter.
