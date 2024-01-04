@@ -48,6 +48,61 @@ A group of very resourceful engineers using natural materials to build brilliant
 
 Names: Boomspear, Skunkdress, Logsmush, Pitspike, Decoy, Burnynet, Hornetpot, Claptrap
 
+### Hermann Voltz
+*Human, he/him*
+
+<figure style="width: 150px;height: 150px" class="align-left">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/hermann_token.png" alt="">
+</figure> 
+
+The chief engineer on the ship, he leads its restoration. Deeply interested in Celestial technology and building weapons to combat the Titans, he is constantly working.
+
+He was brought out of hiding in Port Revelry by the party to work on the ship, drawn by the prospect of working first hand on lost war era technology. He and three of his colleagues, including Hilda's mentor, Knylbec, worked together to build a cannon that gravely wounded the Titan [Jadwiga](/titans/#jadwiga) during it's last attack on Port Revelry. They were pursued by the authorities for building illegal technology, and his three comrades were arrested while Hermann managed to escape and slip into hiding. He worked with the local criminal syndicates in exchange for keeping him hidden away and out of sight of the government forces who sought to imprison him. Now finally free from the criminal groups that exploited him, he is free to pursue his personal research in earnest.
+
+### William Adnet
+*Human, he/him*
+
+<figure style="width: 150px;height: 150px" class="align-left">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/will_token.png" alt="">
+</figure> 
+
+Teenage stepson of Hermann. His biological father died at some point around the Titan attack on Port Revelry. Although he assists Hermann in some of his tasks, he seems disinterested in pursuing a life in artificing, preferring painting and writing.
+
+### Moldra Valnys
+*Silver Dragonborn, she/her*
+
+Cargo manager and accountant for the Stormbreaker. She is quiet and reserved and speaks little of herself, seemingly always focused on the task at hand.
+
+### Octavian Rockforth
+*Human, he/him*
+
+Sales manager for the Stormbreaker's shipping business. Boisterous and a tad pompous, he is well aquainted with merchants in settlements all over the continent, seemingly always having an "in" somewhere. Always well dressed and quick with a smile, his way with words secured quick business in the Stormbreaker's early days.
+
+### Urgan
+*Orc, he/him*
+
+The ship's resident blacksmith, he works closely with the ships engineering teams molding pieces and parts to replace borken ones around the crashed ship. A jack-of-all-trades, he also makes fine weapons and armor on request.
+
+### Cronus Thunderguard
+*Goliath, he/him*
+
+Deckhand handling odd jobs around the ship. Loud and opinionated, he values strength above all else, and although he does not go looking for fights, he never turns down a good scrap.
+
+### Skwawk
+*Kenku, he/him*
+
+Deckhand handling odd jobs around the ship. Quiet and dependable, he gets his work done with no words besides the occasional "caw". Sticks close to Cronus most of the time, who protects him like an elder brother.
+
+### Kuzzim Duskhorn
+*Dwarf, he/him*
+
+Deckhand handling odd jobs around the ship. Grumpy and stubborn, but a dependable laborer when he recognizes "things need doin'". Currently acting as the ship's cook. He is very bad at it.
+
+### Lenny Baldtree
+*Human, he/him*
+
+Deckhand handling odd jobs around the ship. A jokester and carouser, he previously worked as a deckhand on the *Mercurial* with Hilda until he made a snide comment about the captain's boots at which point he was thrown overboard.
+
 ## Others of Note
 
 ### Lavender Whitmore
