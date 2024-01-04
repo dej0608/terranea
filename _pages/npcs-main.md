@@ -68,6 +68,8 @@ He was brought out of hiding in Port Revelry by the party to work on the ship, d
 
 Teenage stepson of Hermann. His biological father died at some point around the Titan attack on Port Revelry. Although he assists Hermann in some of his tasks, he seems disinterested in pursuing a life in artificing, preferring painting and writing.
 
+During Hermann and his period in hiding, he acted as the "face" of the pair, meeting up with the individuals who sought Hermann's artificing services. He seems to carry some amount of resentment towards his stepfather.
+
 ### Moldra Valnys
 *Silver Dragonborn, she/her*
 
