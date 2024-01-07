@@ -9,7 +9,7 @@ toc_label: "Contents"
 toc_icon: "book"
 ---
 
-**Note on Work Weeks:** For the purposes of this adventure, a "work week" is 5 days of working 8 hours and a "week" is 7 days (24 hours). If an activity requires a work week to complete, but a player wishes to push themselves to earn additional days, they may work additional hours at night or over weekends to make progress at the risk of taking levels of exhaustion that will not recover until a normal work week has elapsed in full. Exhaustion is determined by a DM roll, and a modifier is applied depending on the amount of overtime was worked. This modifier increases by 1 for every 8 additional hours worked. Additional hours can only be performed in 4 hour increments, but the modifier is rounded up.
+**Note on Work Weeks:** For the purposes of this adventure, a "work week" is 5 days of working 8 hours and a "week" is 7 days (24 hours). If an activity requires a work week to complete, but a player wishes to push themselves to earn additional days, they may work additional hours at night or over weekends to make progress at the risk of taking levels of exhaustion that will not recover until a normal work week has elapsed in full. Exhaustion is determined by a DM roll, and a modifier is applied depending on the amount of overtime that was worked. This modifier increases by 1 for every 8 additional hours worked. Additional hours can only be performed in 4 hour increments, but the modifier is rounded up.
 {: .notice--info}
 
 

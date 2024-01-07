@@ -105,6 +105,13 @@ Deckhand handling odd jobs around the ship. Grumpy and stubborn, but a dependabl
 
 Deckhand handling odd jobs around the ship. A jokester and carouser, he previously worked as a deckhand on the *Mercurial* with Hilda until he made a snide comment about the captain's boots at which point he was thrown overboard.
 
+### Alessandra Santos
+*Tiefling, she/her*
+
+Acting chaplain of the Stormbreaker. She cleared out one of the unused rooms within the ship and uses it as a small chapel. She became quickly beloved among the crew for her calming disposition and willingness to provide support and aid, as well as teach.
+
+Alessandra was recruited by the party during their time in Port Revelry where a local crime syndicate called *The Abandoned* recognized she was interfering with their protection racket. The party was recruited to "remove her" and after helping her tie up some loose ends, managed to convince her to join their crew and go on a pilgrimage.
+
 ## Others of Note
 
 ### Lavender Whitmore
