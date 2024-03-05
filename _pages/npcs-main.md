@@ -83,7 +83,7 @@ Sales manager for the Stormbreaker's shipping business. Boisterous and a tad pom
 ### Urgan
 *Orc, he/him*
 
-The ship's resident blacksmith, he works closely with the ships engineering teams molding pieces and parts to replace borken ones around the crashed ship. A jack-of-all-trades, he also makes fine weapons and armor on request.
+The ship's resident blacksmith, he works closely with the ships engineering teams molding pieces and parts to replace broken ones around the crashed ship. A jack-of-all-trades, he also makes fine weapons and armor on request.
 
 ### Cronus Thunderguard
 *Goliath, he/him*
